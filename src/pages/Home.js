@@ -1,10 +1,10 @@
 import { gsap ,Power3,Expo} from 'gsap';
 import React, { useEffect, useRef,useLayoutEffect } from 'react';
 import Heder from './Heder'
-import Slide from './Slide'
+import Slide from '../Slide'
 import Designation from './Designation'
 import Catogary from './Catogary'
-import Offer from './Offer'
+import Offer from '../Offer'
 import Footer from './Footer'
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 

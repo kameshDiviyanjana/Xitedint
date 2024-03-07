@@ -6,7 +6,7 @@ import './App.css';
 // import Catogary from './Catogary'
 // import Offer from './Offer'
 // import Footer from './Footer' 
-import Home from './Home'
+import Home from './pages/Home'
 function App() {
   return (
     <div className="App">

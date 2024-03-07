@@ -1,5 +1,5 @@
 import React from 'react'
-import Btton from './componets/Btton'
+import Btton from '../componets/Btton'
 function Designation() {
   return (
     <div className=' w-full h-[500px]  bg-white font-serif' >

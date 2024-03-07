@@ -1,5 +1,5 @@
 import React from 'react'
-import hotelplaces from './Viewplaces.json'
+import hotelplaces from '../Viewplaces.json'
 function Catogary() {
   return (
     <div className=' w-full   bg-white font-serif mt-96'>
