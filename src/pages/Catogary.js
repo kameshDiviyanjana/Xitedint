@@ -17,9 +17,9 @@ function Catogary() {
                   
                   <div className=' relative'>
                   <img src={places.images} className=' w-full h-[500px]' />
-                  <div className='absolute inset-x-0 bottom-0  hover:bottom-[60px] h-[450px]    hover:text-center   '>
+                  <div className='absolute inset-x-0 bottom-0  hover:bottom-[60px] h-[450px]  transition ease-in-out delay-150 duration-100  hover:scale-90  hover:text-center   '>
                           <div className='absolute inset-x-0 bottom-5   '>
-                          <h1 className=' font-bold text-2xl text-white px-4 bottom-0'>{places.palacedata}</h1>
+                          <h1 className=' font-bold text-2xl text-white px-4 bottom-0 transition ease-in-out delay-150 duration-500'>{places.palacedata}</h1>
                           </div>
                   </div>
                   </div>

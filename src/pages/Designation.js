@@ -11,10 +11,10 @@ function Designation() {
     </div >
      <div className=' bg-white mt-2 flex justify-center text-[20px] '>
      <select name="cars" id="cars" className=' py-7 px-7 w-[500px] border-solid  border-2  border-bn-cl'>
-    <option value="volvo" className='  text-red-600 py-5 px-5'>Cinnamon colombo Hotele</option>
-    <option value="saab" className=' border-solid  border-2  border-purple-500'>Cinnamon colombo Hotel</option>
-    <option value="opel" className=' border-solid  border-2  border-purple-500'>Cinnamon colombo Hotel</option>
-    <option value="audi" className=' border-solid  border-2  border-purple-500'>Cinnamon colombo Hotel</option>
+    <option value="volvo" className='  text-red-600 py-5 px-5'>shale-la colombo Hotele</option>
+    <option value="saab" className=' border-solid  border-2  border-purple-500'>shale-la colombo Hotel</option>
+    <option value="opel" className=' border-solid  border-2  border-purple-500'>shale-la colombo Hotel</option>
+    <option value="audi" className=' border-solid  border-2  border-purple-500'>shale-la colombo Hotel</option>
   </select>
      </div>
 

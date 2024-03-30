@@ -6,8 +6,8 @@ function Heder(props,ref) {
       <div className=' w-full  bg-white'>
         <div className=' ml-14  mr-14 lg:grid lg:grid-cols-2 gap-3 bg-white '>
         <div className=' mt-2  bg-white ' id={props.hxlass}>
-            <img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Shangri-La_Hotels_and_Resorts_logo.svg/1200px-Shangri-La_Hotels_and_Resorts_logo.svg.png'   className='w-[150px] h-[60px] max-lg:justify-center'/>
-           
+            {/* <img src='https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Shangri-La_Hotels_and_Resorts_logo.svg/1200px-Shangri-La_Hotels_and_Resorts_logo.svg.png'   className='w-[150px] h-[60px] max-lg:justify-center'/> */}
+            <img src='https://ajhotel.com.br/wp-content/uploads/2022/03/LOGO-AJ-HOTEL-2-TOM-DE-AMARELO-BRANCO.png'   className='w-[150px] h-[60px] max-lg:justify-center'/>
         </div>
         <div className='   mt-2 bg-white  max-lg:hidden'>
         <ul class="mr-8 flex flex-1 items-center  justify-end gap-6 py-4 px-4  text-black" >

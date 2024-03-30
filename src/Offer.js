@@ -12,8 +12,8 @@ function Offer() {
 
              {
                offerlist && offerlist.map((its)=>(
-                    <>
-                       <div className='w-full h-full  bg-slate-50 mt-6 mb-10 shadow-2xl '>
+                    <>                                                                                              
+                       <div className='w-full h-full  bg-slate-50 mt-6 mb-10 shadow-2xl transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover:bg-slate-50 duration-300'>
                     <div>
                         <img src={its.images}  className=' w-full h-[250px]'/>
                     </div>

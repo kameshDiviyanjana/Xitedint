@@ -39,7 +39,7 @@ function Slide() {
         </div>
          </SwiperSlide>
          <SwiperSlide>
-         <img src='https://photos.hotelbeds.com/giata/original/60/608797/608797a_hb_ro_016.jpg' alt='image' />
+         <img src='https://external-preview.redd.it/gOrdIOKGVI21xOPBW9doIGlTDJovgdfpdOdVPbiHGQ8.jpg?auto=webp&s=63ed1141a6c7ec54a251b976de203e4307165a53' alt='image' className=' w-full lg:h-[800px]'/>
          </SwiperSlide>
         
       </Swiper>
