@@ -29,7 +29,7 @@ function Slide() {
        
       >
         <SwiperSlide> <div>
-        <img src='https://sitecore-cd.shangri-la.com/-/media/Shangri-La/colombo_shangrila/about/SLCBServicesandFacilities.jpg' alt='image'  className=''/>
+        <img src='https://sitecore-cd.shangri-la.com/-/media/Shangri-La/colombo_shangrila/about/SLCBServicesandFacilities.jpg' alt='image'   className=' w-full lg:h-[700px]'/>
            
         </div>
          </SwiperSlide>
