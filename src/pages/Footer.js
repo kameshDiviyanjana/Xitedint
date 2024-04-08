@@ -21,12 +21,12 @@ function Footer(props) {
                      
                       <div className=' bg-white'>
                       <h1 className='  text-orange-400 mb-3 text-3xl'>Corporate information</h1>
-                         <h4 className=' text-gray-500 ml-3'>Cinnamon Hotels & Resorts</h4>
-                         <h4  className=' text-gray-500 ml-3'>John Keells Group</h4>
+                         <h4 className=' text-gray-500 ml-3'>Aj hotel  Hotels & Resorts</h4>
+                         <h4  className=' text-gray-500 ml-3'>Aj hotel  Group</h4>
                       </div>
                       <div className=' bg-white mt-6'>
                       <h1 className='  text-orange-400 mb-3 text-3xl'>Blogs</h1>
-                         <h4 className=' text-gray-500 ml-3'>Cinnamon Ublog</h4>
+                         <h4 className=' text-gray-500 ml-3'>Aj hotel Ublog</h4>
                         
                       </div>
                       
@@ -41,7 +41,7 @@ function Footer(props) {
                       <div className=' bg-white'>
                       <h1 className='  text-orange-400 mb-3 text-3xl'>News and Awards</h1>
                          <h4 className=' text-gray-500 ml-3'>News</h4>
-                         <h4  className=' text-gray-500 ml-3'>John Keells Group</h4>
+                         <h4  className=' text-gray-500 ml-3'>Aj hotel  Group</h4>
                       </div>
                       <div className=' bg-white  mt-6'>
                       <h1 className='  text-orange-400 mb-3 text-3xl'>Corporate Governance</h1>
@@ -57,7 +57,7 @@ function Footer(props) {
                       </div>
                       <div className=' bg-white  mt-6'>
                       <h1 className='  text-orange-400 mb-3 text-3xl '>Get In Touch</h1>
-                         <h4 className=' text-gray-500 ml-3'>info@cinnamonhotels.com</h4>
+                         <h4 className=' text-gray-500 ml-3'>info@cAjhotel5263.com</h4>
                          <h4  className=' text-gray-500 ml-3'>Hotel Contact Information</h4>
                       </div>
                       <div className=' bg-white  mt-6'>
